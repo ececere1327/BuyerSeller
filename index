@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Important Notice</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Impact, sans-serif;
+            text-align: center;
+        }
+        .content {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        Buyers: Make sure your Realtor tells you how much you are paying them. <br><br>
+        (They have to make you sign a buyer's agreement)
+    </div>
+</body>
+</html>
